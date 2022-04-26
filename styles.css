@@ -1,0 +1,48 @@
+.top {
+    background-color: #79F3EA  
+;
+    border: 10px double black;
+    padding: 20px;
+    text-align: center;
+}
+
+.bottom {
+    background-color: #79F3EA  
+;
+    border: 10px double black;
+    padding: 20px;
+    text-align: center;
+}
+.menu {
+ Display: flex;
+     Justify-content:Space-evenly;
+}
+.menuItem {
+    background-color: #0F968C; 
+    margin: 10px;
+    padding: 10px 10px 10px 10px;
+   
+     
+}
+.photos {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+img {
+    height: 300px;
+    width:  340px;
+  
+}
+body {
+    background-color: #61DDD4   ; 
+
+}
+.hey {
+    display: flex;
+    justify-content: center;
+}
+.thankyou {
+    Display: flex;
+    justify-content:center;
+}
